@@ -8,12 +8,12 @@ e também para esses dados serem guardados de uma forma mais segura e mais facil
 
 Ele tem 3 tipos de responsabilidades:
 
-  -Suporte: Ele entra em contato direto com o cliente para resolver o problema, e caso aja a necessidade de um reenvio, ele é responsável por cadastrar essa reposição no aplicativo.<br/>
+  -<b>Suporte: Ele entra em contato direto com o cliente para resolver o problema, e caso aja a necessidade de um reenvio, ele é responsável por cadastrar essa reposição no aplicativo.<br/>
   <br/>
   -Compras: Este é responsável pela disponibilidade do produto, as vezes é um produto que não tem estoque, ou que tem que ser fabricado, comprado e ele é responsável por visualizar
   e pedir esse produto, com sua parte feita ele tem um campo na parte dos detalhes da reposição para informar aos outros que já realizou o pedido.<br/>
   <br/>
-  -Logística : responsável por realizar o envio desse produto, dentro do prazo, que é selecionado de acordo com niveís de prioridade definidos pelo suporte na hora de cadastrar.<br/>
+  -Logística : responsável por realizar o envio desse produto, dentro do prazo, que é selecionado de acordo com niveís de prioridade definidos pelo suporte na hora de cadastrar.<br/><b/>
 
 Apesar de ter 3 responsabilidades ele comporta diversos usuários de acordo com a necessidade.<br/>
 Cada tipo de usuário tem suas permissões dentro do aplicativo e não podem alterar informações dos outros.
