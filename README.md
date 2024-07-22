@@ -26,6 +26,7 @@ Cada tipo de usuário tem suas permissões dentro do aplicativo e não podem alt
 ## Tela de login:
 
 -Com uma interface moderna e intuitiva essa tela, assim como todo o App, foi construido com o FrameWork de UI Guna2 UI
+
 ![login](https://github.com/user-attachments/assets/d1000a6b-b603-4d12-a709-d3cfae8034de)
 
 ## Tela de carregamento:
