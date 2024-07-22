@@ -45,7 +45,7 @@ namespace TrocasDevolucoes.Decorecasa.Controller.Metodos
                 //}
 
                 //PASSAR USARIO E SENHAS QUE O METODO RECEBE
-                //if (entrar[0].usuario == "admin" && entrar[0].senha == "admin")
+                //if (entrar[0].usuario == usuario && entrar[0].senha == senha)
                 //{
                 //    SaveCredentials(usuario, senha, lembrar);
                 //    return true;
