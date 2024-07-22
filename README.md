@@ -26,6 +26,10 @@ Cada tipo de usuário tem suas permissões dentro do aplicativo e não podem alt
  -Micro ORM Dapper<br/>
  -C# .NET<br/>
 
+## Estrutura do banco de dados
+
+![database](https://github.com/user-attachments/assets/9910fe8a-2a09-4dde-8031-c92f0bb9a240)
+
 
 
 # Telas do aplicativo:
