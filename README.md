@@ -15,7 +15,11 @@ Ele tem 3 tipos de responsabilidades:
   <br/>
   -Logística : responsável por realizar o envio desse produto, dentro do prazo, que é selecionado de acordo com niveís de prioridade definidos pelo suporte na hora de cadastrar.<br/>
 
-Apesar de ter 3 responsabilidades ele comporta diversos usuários de acordo com a necessidade.
+Apesar de ter 3 responsabilidades ele comporta diversos usuários de acordo com a necessidade.<br/>
+Cada tipo de usuário tem suas permissões dentro do aplicativo e não podem alterar informações dos outros.
+
+
+
 
 # Telas do aplicativo:
 
@@ -28,8 +32,38 @@ Apesar de ter 3 responsabilidades ele comporta diversos usuários de acordo com 
  
 ![Login](https://github.com/user-attachments/assets/f296bec1-b4f9-489d-b3bc-be1cb7aad3e9)
 
-##Tela Inicial:
+## Tela Inicial:
 
--Essa tela contem um botão de ajuda para caso aja algum problema com o app e é onde coloco as atualizações para os usuários já entratrem e visualizarem
+-Essa tela contem um botão de ajuda para caso aja algum problema com o app e é onde coloco as atualizações para os usuários já entratrem e visualizarem.
 
-![Uploading pag_inicial.png…]()
+![pag_inicial](https://github.com/user-attachments/assets/42583865-ba21-4502-8d96-164bf062c45e)
+
+## Tela das reposições:
+
+-Essa é a tela onde podemos vizualizar todas as ultimas 50 reposições(foram limitados a 50 pois é o suficiente no momento mas pode ser colocado a quantidade de registros desejado),
+aqui podemos ver todas reposições, apenas as pendentes, faturadas, que são as que a logistica já preparou o envio mas ainda não foi enviada, enviadas, e atrasadas, que são as que já passaram da data prevista para o envio.<br/>
+Ela exibe as informações de forma resumida para que fique facil visualizar e já saber do que se trata aquele registro.
+
+![pag_rep](https://github.com/user-attachments/assets/36ec3128-df9e-46e8-8a1a-d7f684ef7c53)
+
+
+## Tela de registro:
+
+-Essa é a tela onde o suporte registra a reposição para dar início ao processo
+
+![pag_reg](https://github.com/user-attachments/assets/aa7493d0-3e27-4b01-86df-04a8b5039e78)
+
+## Tela de detalhes da reposição
+
+-Aqui é o local onde é possivel ver todas as informaçõs a respeito daquela reposição, quando foi registrada, informações do cliente para criação da nota fiscal, informações do produto, quantidade, se não havia em estoque, se já foi pedido,
+fotos, anotações dos outros responsáveis pelo processo.
+<br/>
+Os detalhes da reposição é onde o responsavel pelas compras informa se já pediu o produto, o usuário da logística informa se já enviou o pedido, por qual transportadora enviou, e tudo isso é datado para caso aja algum problema seja possível ver
+quando os passos do processo aconteceram.
+
+![pag_deta](https://github.com/user-attachments/assets/5bbc7378-7752-4949-a4ae-6d633ee25c18)
+
+## Tela de Imagens:
+
+-Tela que exibe as fotos que o suporte colocou como provas do que aconteceu com o produto, para que caso necessario
+![PAG_FTS](https://github.com/user-attachments/assets/4a6a8a50-9846-42c6-ba1e-b5d58f4da6bb)
