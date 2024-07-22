@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrocasDevolucoes.Decorecasa", "TrocasDevolucoes.Decorecasa\TrocasDevolucoes.Decorecasa.csproj", "{F96A7922-FEE2-4AF2-8E37-411B39C29A50}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupApp", "SetupApp\SetupApp.vdproj", "{130E7CEF-065F-4D3E-BBA0-FF407598A484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96A7922-FEE2-4AF2-8E37-411B39C29A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96A7922-FEE2-4AF2-8E37-411B39C29A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96A7922-FEE2-4AF2-8E37-411B39C29A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96A7922-FEE2-4AF2-8E37-411B39C29A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130E7CEF-065F-4D3E-BBA0-FF407598A484}.Debug|Any CPU.ActiveCfg = Debug
+		{130E7CEF-065F-4D3E-BBA0-FF407598A484}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FD8361-3EBF-42A2-834F-7CA01978B7F3}
+	EndGlobalSection
+EndGlobal
