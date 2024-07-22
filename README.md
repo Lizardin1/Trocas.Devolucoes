@@ -1,5 +1,6 @@
 # GERENCIADOR DE TROCAS E DEVOLUÇÕES PARA E-COMMERCE
-
+ ----Este projeto é utilizado por uma empresa profissionalmente e já faz parte do processo interno para resolução de problemas dela---<br/>
+ <br/>
 Quem trabalha com vendas, principalmente online, sabe que a todo momento produtos que foram enviados retornam para o CD, seja por algum defeito, cliente não gostou, tentativas de entregas falhas etc.
 As vezes os produtos apenas voltam, mas por vezes, temos que reenviar um novo para o cliente.
 
@@ -8,7 +9,7 @@ e também para esses dados serem guardados de uma forma mais segura e mais facil
 
 Ele tem 3 tipos de responsabilidades:
 
-  -<b>Suporte: Ele entra em contato direto com o cliente para resolver o problema, e caso aja a necessidade de um reenvio, ele é responsável por cadastrar essa reposição no aplicativo.<br/>
+  -<b>Suporte: Ele entra em contato direto com o cliente para resolver o problema, e caso haja a necessidade de um reenvio, ele é responsável por cadastrar essa reposição no aplicativo.<br/>
   <br/>
   -Compras: Este é responsável pela disponibilidade do produto, as vezes é um produto que não tem estoque, ou que tem que ser fabricado, comprado e ele é responsável por visualizar
   e pedir esse produto, com sua parte feita ele tem um campo na parte dos detalhes da reposição para informar aos outros que já realizou o pedido.<br/>
@@ -35,7 +36,7 @@ Cada tipo de usuário tem suas permissões dentro do aplicativo e não podem alt
 
 ## Tela Inicial:
 
--Essa tela contem um botão de ajuda para caso aja algum problema com o app e é onde coloco as atualizações para os usuários já entratrem e visualizarem.
+-Essa tela contem um botão de ajuda para caso haja algum problema com o app e é onde coloco as atualizações para os usuários já entratrem e visualizarem.
 
 ![pag_inicial](https://github.com/user-attachments/assets/42583865-ba21-4502-8d96-164bf062c45e)
 
@@ -59,7 +60,7 @@ Ela exibe as informações de forma resumida para que fique facil visualizar e j
 -Aqui é o local onde é possivel ver todas as informaçõs a respeito daquela reposição, quando foi registrada, informações do cliente para criação da nota fiscal, informações do produto, quantidade, se não havia em estoque, se já foi pedido,
 fotos, anotações dos outros responsáveis pelo processo.
 <br/>
-Os detalhes da reposição é onde o responsavel pelas compras informa se já pediu o produto, o usuário da logística informa se já enviou o pedido, por qual transportadora enviou, e tudo isso é datado para caso aja algum problema seja possível ver
+Os detalhes da reposição é onde o responsavel pelas compras informa se já pediu o produto, o usuário da logística informa se já enviou o pedido, por qual transportadora enviou, e tudo isso é datado para caso haja algum problema seja possível ver
 quando os passos do processo aconteceram.
 
 ![pag_deta](https://github.com/user-attachments/assets/5bbc7378-7752-4949-a4ae-6d633ee25c18)
