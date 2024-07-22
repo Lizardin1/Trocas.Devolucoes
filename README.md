@@ -19,12 +19,18 @@ Ele tem 3 tipos de responsabilidades:
 Apesar de ter 3 responsabilidades ele comporta diversos usuários de acordo com a necessidade.<br/>
 Cada tipo de usuário tem suas permissões dentro do aplicativo e não podem alterar informações dos outros.
 
+## Tecnologias utilizadas:<br/>
+ -Microsoft SQL Server<br/>
+ -Azure Database<br/>
+ -Guna 2 UI FrameWork<br/>
+ -Micro ORM Dapper<br/>
+ -C# .NET<br/>
 
 
 
 # Telas do aplicativo:
 
-## Tela de login:
+### Tela de login:
 
 -Com uma interface moderna e intuitiva essa tela, assim como todo o App, foi construido com o FrameWork de UI Guna2 UI
 
