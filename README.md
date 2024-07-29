@@ -1,5 +1,4 @@
 # GERENCIADOR DE TROCAS E DEVOLUÇÕES PARA E-COMMERCE
- ----Este projeto é utilizado por uma empresa profissionalmente e já faz parte do processo interno para resolução de problemas dela---<br/>
  <br/>
 Quem trabalha com vendas, principalmente online, sabe que a todo momento produtos que foram enviados retornam para o CD, seja por algum defeito, cliente não gostou, tentativas de entregas falhas etc.
 As vezes os produtos apenas voltam, mas por vezes, temos que reenviar um novo para o cliente.
